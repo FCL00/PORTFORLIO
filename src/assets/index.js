@@ -29,6 +29,17 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import navy from "./company/navy.png";
+
+import blender from "./tech/blender.png";
+import codeigniter from "./tech/codeigniter.png";
+import java from "./tech/java.png";
+import laravel from "./tech/laravel.png";
+import csharp from "./tech/csharp.png";
+import xd from "./tech/xd.png";
+import bootstrap from "./tech/bootstrap.png";
+import flask from "./tech/flask.png";
+import python from "./tech/python.png";
 
 export {
   logo,
@@ -52,6 +63,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  navy,
   meta,
   shopify,
   starbucks,
@@ -59,4 +71,13 @@ export {
   carrent,
   jobit,
   tripguide,
+  blender,
+  codeigniter,
+  java,
+  laravel,
+  xd,
+  csharp,
+  bootstrap,
+  flask,
+  python,
 };
