@@ -33,6 +33,9 @@ import {
     bootstrap,
     flask,
     python,
+    blogsite,
+    quizguard,
+    trackers,
   } from "../assets";
 
   
@@ -223,68 +226,69 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Quiz Guard",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "QuizGuard is an innovative online assessment monitoring system that employs the use of object detection algorithm.",
       tags: [
         {
-          name: "react",
+          name: "Flask",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Python",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Bootstrap 5",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: quizguard,
+      source_code_link: "https://github.com/FCL00/QuizGuard",
     },
     {
-      name: "Job IT",
+      name: "Blog site",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A responsive web application, mobile-first, and easy-to-use blog platform that allows users post blogs and chat between users",
       tags: [
         {
-          name: "react",
+          name: "Laravel",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "PHP",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Bootstrap",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: blogsite,
+      source_code_link: "https://github.com/FCL00/BLOG-SITE",
     },
     {
-      name: "Trip Guide",
+      name: "Trackers",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Trackers is a web-based platform that helps businesses track who enters and leaves their premises, keeping them safe and secure.",
       tags: [
         {
-          name: "nextjs",
+          name: "CodeIgniter",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "PHP",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Bootstrap 5",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: trackers,
       source_code_link: "https://github.com/",
     },
+   
   ];
   
   export { services, technologies, experiences, testimonials, projects };

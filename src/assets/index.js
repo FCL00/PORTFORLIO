@@ -40,6 +40,9 @@ import xd from "./tech/xd.png";
 import bootstrap from "./tech/bootstrap.png";
 import flask from "./tech/flask.png";
 import python from "./tech/python.png";
+import blogsite from "./projects/Blogsite.png";
+import quizguard from "./projects/QuizGuard.png";
+import trackers from "./projects/Trackers.png"
 
 export {
   logo,
@@ -80,4 +83,7 @@ export {
   bootstrap,
   flask,
   python,
+  blogsite,
+  quizguard,
+  trackers,
 };
