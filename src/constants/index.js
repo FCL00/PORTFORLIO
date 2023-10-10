@@ -288,6 +288,24 @@ import {
       image: trackers,
       source_code_link: "https://github.com/",
     },
+
+    {
+      name: "HexColorJs",
+      description:
+        "Simple Vanilla Javascript that can generate Hex color values and checks the luminance of the color",
+      tags: [
+        {
+          name: "Javacript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: trackers,
+      source_code_link: "https://hex-color-js.vercel.app",
+    },
    
   ];
   
