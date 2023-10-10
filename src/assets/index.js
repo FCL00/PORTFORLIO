@@ -43,6 +43,7 @@ import python from "./tech/python.png";
 import blogsite from "./projects/Blogsite.png";
 import quizguard from "./projects/QuizGuard.png";
 import trackers from "./projects/Trackers.png"
+import hexColorJs from "./projects/HexColorJs.png";
 
 export {
   logo,
@@ -86,4 +87,5 @@ export {
   blogsite,
   quizguard,
   trackers,
+  hexColorJs,
 };

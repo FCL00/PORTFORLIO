@@ -36,6 +36,7 @@ import {
     blogsite,
     quizguard,
     trackers,
+    hexColorJs,
   } from "../assets";
 
   
@@ -303,7 +304,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: trackers,
+      image: hexColorJs,
       source_code_link: "https://hex-color-js.vercel.app",
     },
    
