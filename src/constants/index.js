@@ -266,7 +266,7 @@ import {
         },
       ],
       image: blogsite,
-      source_code_link: "https://github.com/FCL00/BLOG-SITE",
+      source_code_link: "https://github.com/FCL00/BlogSite",
     },
     {
       name: "Trackers",
